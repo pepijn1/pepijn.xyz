@@ -4,6 +4,9 @@ title: Pepijn Vloemans
 ---
 
 # PEPIJN VLOEMANS
+
+<img src="/assets/magician.jpg" class="tarot" alt="The Magician">
+
 - Lives in Amsterdam
 - Writes a newsletter on progress and other underrated ideas on [Substack](https://pepijnvloemans.substack.com)
 - Startup storyteller. Worked at [Fastned](https://fastned.nl) and [Farmless](https://pepijn.substack.com/p/my-time-at-farmless-the-insanely) and wrote for [Cradle](https://cradle.bio) and others
