@@ -4,8 +4,7 @@ title: Pepijn Vloemans
 ---
 
 # PEPIJN VLOEMANS
-
-- Lives in Amsterdam with one wife, two cats and three kids
+- Lives in Amsterdam
 - Writes a newsletter on progress and other underrated ideas on [Substack](https://pepijnvloemans.substack.com)
 - Startup storyteller. Worked at [Fastned](https://fastned.nl) and [Farmless](https://pepijn.substack.com/p/my-time-at-farmless-the-insanely) and consulted / wrote for Cradle, Carbon Equity and Monumental
 - Created a list of the [most ambitious European hardware startups](https://hardli.st)
@@ -15,8 +14,8 @@ title: Pepijn Vloemans
 - Maintains a [list of beautiful Dutch words](/woorden.html)
 - [Official credentials](https://www.linkedin.com/in/pepijnvloemans/)
 
-## WHAT I BELIEVE IN
 
+## WHAT I BELIEVE IN
 - The only limits to human progress are the laws of physics
 - The world has gotten much, much better over the past centuries for most people
 - NOW is the best time to be alive
@@ -28,8 +27,8 @@ title: Pepijn Vloemans
 - The ultimate bottleneck for Europe's future is cultivating and attracting ultra-ambitious founders
 - Aesthetic minimalism has peaked — beauty and tradition in architecture and design of everyday objects will make a comeback
 
-## MY MODEST EXPECTATIONS OF THE 2030s
 
+## MY MODEST EXPECTATIONS OF THE 2030s
 - Affordable space tourism. At least low earth orbit, but preferably the moon
 - Mass drivers on the moon
 - Huge ass telescopes on the dark side of the moon for 1000X higher resolution images of the universe
@@ -43,8 +42,8 @@ title: Pepijn Vloemans
 - Synthetic fuels (solar power to methane / methanol) outcompete fossil fuels
 - Fermented proteins outcompeting animal derived proteins
 
-## NOTES ON STARTUPS
 
+## NOTES ON STARTUPS
 - When choosing a startup to join, look for the most obsessed, determined, formidable founder
 - A startup should be like a cult or a religion with a secret at its core
 - Embrace daily doses of pain, confusion and messiness as the price of your freedom
@@ -57,8 +56,8 @@ title: Pepijn Vloemans
 - Say the difficult or stupid things no one else dares to say
 - Be nice and spread joy
 
-## HOW TO IMPROVE CONVERSATIONS
 
+## HOW TO IMPROVE CONVERSATIONS
 - Ask questions, be genuinely curious above all else
 - Say the things you cannot say or that are uncomfortable to say
 - Tolerate silence, even if it's mildly uncomfortable
