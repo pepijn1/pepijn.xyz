@@ -3,7 +3,7 @@ layout: default
 title: Pepijn Vloemans
 ---
 
-# Pepijn Vloemans
+# PEPIJN VLOEMANS
 
 - Lives in Amsterdam with one wife, two cats and three kids
 - Writes a newsletter on progress and other underrated ideas on [Substack](https://pepijnvloemans.substack.com)
@@ -15,7 +15,7 @@ title: Pepijn Vloemans
 - Maintains a [list of beautiful Dutch words](/woorden.html)
 - [Official credentials](https://www.linkedin.com/in/pepijnvloemans/)
 
-## Things I believe
+## WHAT I BELIEVE IN
 
 - The only limits to human progress are the laws of physics
 - The world has gotten much, much better over the past centuries for most people
@@ -28,7 +28,7 @@ title: Pepijn Vloemans
 - The ultimate bottleneck for Europe's future is cultivating and attracting ultra-ambitious founders
 - Aesthetic minimalism has peaked — beauty and tradition in architecture and design of everyday objects will make a comeback
 
-## My modest expectations of the 2030s
+## MY MODEST EXPECTATIONS OF THE 2030s
 
 - Affordable space tourism. At least low earth orbit, but preferably the moon
 - Mass drivers on the moon
@@ -43,17 +43,9 @@ title: Pepijn Vloemans
 - Synthetic fuels (solar power to methane / methanol) outcompete fossil fuels
 - Fermented proteins outcompeting animal derived proteins
 
-## How to improve conversations
+## NOTES ON STARTUPS
 
-- Ask questions, be genuinely curious above all else
-- Say the things you cannot say or that are uncomfortable to say
-- Tolerate silence, even if it's mildly uncomfortable
-- When you disagree with someone, instead of stating your opinion, ask: what's the best argument against this? Or: how would you summarise your opponent's position as charitably as possible?
-- Raise someone's ambitions. It's free, it's underrated and it works.
-
-## Some startup insights
-
-- When choosing a startup to join, look for the most obsessed founder
+- When choosing a startup to join, look for the most obsessed, determined, formidable founder
 - A startup should be like a cult or a religion with a secret at its core
 - Embrace daily doses of pain, confusion and messiness as the price of your freedom
 - Ego is the enemy. Make a point of writing down your mistakes to the group.
@@ -64,3 +56,11 @@ title: Pepijn Vloemans
 - Celebrate wins — it signals what you value and shows there is progress despite all the things that go wrong
 - Say the difficult or stupid things no one else dares to say
 - Be nice and spread joy
+
+## HOW TO IMPROVE CONVERSATIONS
+
+- Ask questions, be genuinely curious above all else
+- Say the things you cannot say or that are uncomfortable to say
+- Tolerate silence, even if it's mildly uncomfortable
+- When you disagree with someone, instead of stating your opinion, ask: what's the best argument against this? Or: how would you summarise your opponent's position as charitably as possible?
+- Raise someone's ambitions. It's free, it's underrated and it works.
