@@ -5,7 +5,7 @@ title: Pepijn Vloemans
 
 # PEPIJN VLOEMANS
 
-<img src="/assets/magician.jpg" class="tarot" alt="">
+<img src="/assets/magician-historic.webp" class="tarot" alt="">
 
 - Lives in Amsterdam
 - Writes a newsletter on progress and other underrated ideas on [Substack](https://pepijnvloemans.substack.com)
