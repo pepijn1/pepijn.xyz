@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    @font-face {
+      font-family: 'Honoria';
+      src: url('/fonts/Honoria-Regular.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
+    body {
+      max-width: 580px;
+      margin: 64px auto;
+      padding: 0 24px;
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 20px;
+      line-height: 1.65;
+      color: #111;
+      background-color: #f5efe0;
+    }
+    h1 { font-family: 'Honoria', Georgia, serif; font-weight: normal; font-size: 1.6em; margin: 0 0 1.6em; }
+    h2 { font-size: 1em; margin: 2.4em 0 0.6em; border-top: 1px solid #ddd; padding-top: 1.2em; }
+    ul { padding-left: 1.3em; margin: 0.4em 0; }
+    li { margin-bottom: 0.25em; }
+    a { color: #111; }
+    p { margin: 0.8em 0; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 1.5em; }
+    td, th { text-align: left; padding: 4px 12px 4px 0; vertical-align: top; }
+    th { font-weight: bold; border-bottom: 1px solid #ddd; }
+  </style>
+</head>
+<body>
+{{ content }}
+</body>
+</html>
