@@ -28,7 +28,7 @@ title: Pepijn Vloemans
 - Aesthetic minimalism has peaked — beauty and tradition in architecture and design of everyday objects will make a comeback
 
 
-## MY MODEST EXPECTATIONS OF THE 2030s
+## MY MODEST EXPECTATIONS OF THE NEAR FUTURE
 - Affordable space tourism. At least low earth orbit, but preferably the moon
 - Mass drivers on the moon
 - Huge ass telescopes on the dark side of the moon for 1000X higher resolution images of the universe
