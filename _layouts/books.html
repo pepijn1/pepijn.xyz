@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<style>
+  .book-entry { display: flex; gap: 16px; margin-bottom: 1.4em; align-items: flex-start; }
+  .book-entry p { margin: 0; flex: 1; }
+  .book-cover { width: 56px; flex-shrink: 0; border-radius: 2px; box-shadow: 0 2px 6px rgba(0,0,0,0.18); object-fit: cover; }
+</style>
+
+{{ content }}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('p').forEach(function (p) {
+    var strong = p.firstElementChild;
+    if (!strong || strong.tagName !== 'STRONG') return;
+
+    var title = strong.textContent.trim();
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'book-entry';
+    p.replaceWith(wrapper);
+    wrapper.appendChild(p);
+
+    var img = document.createElement('img');
+    img.className = 'book-cover';
+    img.alt = '';
+    img.onload = function () {
+      if (this.naturalWidth < 10) this.remove();
+    };
+    img.onerror = function () { this.remove(); };
+    img.src = 'https://covers.openlibrary.org/b/title/' + encodeURIComponent(title) + '-M.jpg';
+    wrapper.prepend(img);
+  });
+});
+</script>

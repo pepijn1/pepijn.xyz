@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: books
 title: Books — Pepijn Vloemans
 ---
 
