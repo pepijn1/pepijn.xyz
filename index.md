@@ -6,8 +6,8 @@ title: Pepijn Vloemans
 # Pepijn Vloemans
 
 - Lives in Amsterdam
-- Writes a newsletter on progress and other underrated ideas on [Substack](https://pepijnvloemans.substack.com)
-- Startup storyteller. Worked at [Fastned](https://fastned.nl) and [Farmless](https://pepijn.substack.com/p/my-time-at-farmless-the-insanely) and wrote for [Cradle](https://cradle.bio) and others
+- Writes a newsletter on progress and other underrated ideas on [Substack](https://pepijnvloemans.substack.com) and posts on [X](https://x.com/procyon_rex)
+- Startup storyteller. Worked at [Fastned](https://fastned.nl) and [Farmless](https://pepijn.substack.com/p/my-time-at-farmless-the-insanely) and helps (founders of) hardware with narrative
 - Maintains a list of the [most ambitious European hardware startups](https://hardli.st)
 - Likes to visit severely underrated countries (such as Somaliland, Sudan, Eritrea, Yemen and Djibouti)
 - [Reads books and writes mini reviews](/boeken.html)
