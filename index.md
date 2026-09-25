@@ -21,18 +21,18 @@ title: Pepijn Vloemans
 - The world has gotten much, much better over the past centuries for most people
 - NOW is the best time to be alive
 - Humanity should expand throughout the galaxy
-- Taking naps is underrated
-- Humans are the only animal with a capacity for universal morality. We should cultivate this towards other people and animals.
+- Taking naps should be culturally accepted
+- Humans are the only animal with a capacity for universal morality. We should cultivate this towards other beings.
 - Strong moral convictions: (1) the way we treat animals for food, clothing and materials is utterly wrong (2) we should eradicate preventable diseases globally, not just in rich countries (we know how to do this and it would not cost much) (3) if you want to change something, anything, you should probably start with yourself
 - Developing smaller, cheaper, simpler and lower-maintenance tunnel boring capacity is underrated and we need more startups working in this field
-- The ultimate bottleneck for Europe's future is cultivating and attracting ultra-ambitious founders
+- The ultimate bottleneck for Europe's future is cultivating and attracting ultra-ambitious founders that go all-in
 - Aesthetic minimalism has peaked — beauty and tradition in architecture and design of everyday objects will make a comeback
 
 
 ## ! MY MODEST EXPECTATIONS OF THE NEAR FUTURE ~
-- Affordable space tourism. At least low earth orbit, but preferably the moon
-- Mass drivers on the moon
-- Huge ass telescopes on the dark side of the moon for 1000X higher resolution images of the universe
+- Affordable space tourism. At least low earth orbit, but preferably the moon and ideally Mars
+- Mass drivers on the moon would be nice to have, don't know what to use them for but will give it a think
+- Huge ass, and I mean HUGE ass, telescopes on the dark side of the moon for >1000X higher resolution images of the universe
 - First permanently inhabited Mars base
 - Supersonic commercial flight
 - Fully electric VTOLs
