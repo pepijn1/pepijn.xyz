@@ -4,12 +4,33 @@ layout: default
 <style>
   .book-entry { display: flex; gap: 16px; margin-bottom: 1.4em; align-items: flex-start; }
   .book-entry p { margin: 0; flex: 1; }
-  .book-cover { width: 56px; flex-shrink: 0; border-radius: 2px; box-shadow: 0 2px 6px rgba(0,0,0,0.18); object-fit: cover; }
+  .book-cover { width: 56px; height: 84px; flex-shrink: 0; border-radius: 2px; box-shadow: 0 2px 6px rgba(0,0,0,0.18); object-fit: cover; }
+  .book-cover.placeholder {
+    box-sizing: border-box; display: flex; align-items: center; justify-content: center;
+    padding: 6px 4px; overflow: hidden; text-align: center;
+    font-family: 'Honoria', Georgia, serif; font-size: 9px; line-height: 1.2; letter-spacing: 0.03em;
+    color: #f5efe0; border-left: 3px solid rgba(0,0,0,0.25);
+  }
 </style>
 
 {{ content }}
 
 <script>
+// Cover URLs are looked up once (title + author) and stored in _data/covers.json.
+// Books without a known cover, or whose image fails to load, get a placeholder.
+var COVERS = {{ site.data.covers | jsonify }};
+var SPINE_COLOURS = ['#5b4a3a', '#3f5245', '#4a4f63', '#6b3f3a', '#5e5a3c', '#3d4f57'];
+
+function placeholder(title) {
+  var div = document.createElement('div');
+  div.className = 'book-cover placeholder';
+  div.textContent = title;
+  var hash = 0;
+  for (var i = 0; i < title.length; i++) hash = (hash * 31 + title.charCodeAt(i)) >>> 0;
+  div.style.background = SPINE_COLOURS[hash % SPINE_COLOURS.length];
+  return div;
+}
+
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('p').forEach(function (p) {
     var strong = p.firstElementChild;
@@ -22,14 +43,18 @@ document.addEventListener('DOMContentLoaded', function () {
     p.replaceWith(wrapper);
     wrapper.appendChild(p);
 
+    var url = COVERS[title];
+    if (!url) { wrapper.prepend(placeholder(title)); return; }
+
     var img = document.createElement('img');
     img.className = 'book-cover';
     img.alt = '';
+    img.loading = 'lazy';
     img.onload = function () {
-      if (this.naturalWidth < 10) this.remove();
+      if (this.naturalWidth < 10) this.replaceWith(placeholder(title));
     };
-    img.onerror = function () { this.remove(); };
-    img.src = 'https://covers.openlibrary.org/b/title/' + encodeURIComponent(title) + '-M.jpg';
+    img.onerror = function () { this.replaceWith(placeholder(title)); };
+    img.src = url;
     wrapper.prepend(img);
   });
 });
