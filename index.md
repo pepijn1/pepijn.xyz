@@ -31,7 +31,7 @@ title: Pepijn Vloemans
 
 ## ~ MY MODEST EXPECTATIONS OF THE NEAR FUTURE ~
 - Affordable space tourism. At least low earth orbit, but preferably the moon and ideally Mars
-- Mass drivers on the moon would be nice to have, don't know what to use them for but will give it a think
+- Mass drivers on the moon would be nice to have, don't know yet what to use them for but will give it a think
 - Huge ass, and I mean HUGE ass, telescopes on the dark side of the moon for >1000X higher resolution images of the universe
 - First permanently inhabited Mars base
 - Supersonic commercial flight
